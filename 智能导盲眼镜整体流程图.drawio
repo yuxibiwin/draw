@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T08:18:11.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="fvFwqOo82W3BNNvLAnml" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-12T08:25:26.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="cJtg4rTuTBWRhBB1i8HB" version="21.0.2" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="2017" dy="1974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
         <mxCell id="Ez2dJQbbrGeNrCwUJTwX-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ez2dJQbbrGeNrCwUJTwX-21" target="Ez2dJQbbrGeNrCwUJTwX-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ez2dJQbbrGeNrCwUJTwX-21" value="智能播报模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ez2dJQbbrGeNrCwUJTwX-21" value="智能播报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="-160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ez2dJQbbrGeNrCwUJTwX-23" value="带检测框和距离值的文本信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
