@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T07:04:11.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" version="22.1.5" etag="2ehkwB0YJREK04zeXr_r" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T07:05:58.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="ldaS5TQBcZcd_ZHzwF0v" version="22.1.5" type="github">
   <diagram name="第 1 页" id="eBIgCgVsV7XXBy6zvwKr">
-    <mxGraphModel>
+    <mxGraphModel dx="2019" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iq-iB9Y9bByXfAcqjyZV-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iq-iB9Y9bByXfAcqjyZV-1" target="iq-iB9Y9bByXfAcqjyZV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iq-iB9Y9bByXfAcqjyZV-1" value="DNS数据预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iq-iB9Y9bByXfAcqjyZV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iq-iB9Y9bByXfAcqjyZV-2" target="iq-iB9Y9bByXfAcqjyZV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iq-iB9Y9bByXfAcqjyZV-2" value="模型建立" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iq-iB9Y9bByXfAcqjyZV-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iq-iB9Y9bByXfAcqjyZV-3" target="iq-iB9Y9bByXfAcqjyZV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iq-iB9Y9bByXfAcqjyZV-3" value="特征提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iq-iB9Y9bByXfAcqjyZV-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iq-iB9Y9bByXfAcqjyZV-4" target="iq-iB9Y9bByXfAcqjyZV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iq-iB9Y9bByXfAcqjyZV-4" value="逻辑回归" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iq-iB9Y9bByXfAcqjyZV-5" value="检测结果后处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
