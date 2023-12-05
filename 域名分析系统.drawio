@@ -1,41 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T03:24:26.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="AGCJ1gc5hTqqnIdB8qQa" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T03:26:08.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="xqANYAbg4tgvWydgqw2F" version="22.1.5" type="github">
   <diagram name="第 1 页" id="uzhM0Xe-PuWfZdqkZ__s">
-    <mxGraphModel dx="2019" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2019" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="g13x6z9LS7QD6a0NOMHG-1" value="DNS日志采集器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="1160" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g13x6z9LS7QD6a0NOMHG-3" value="结果后处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="522" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="865" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g13x6z9LS7QD6a0NOMHG-4" value="数据采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="943" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g13x6z9LS7QD6a0NOMHG-5" value="数据预处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="783" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g13x6z9LS7QD6a0NOMHG-6" value="训练数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="383" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g13x6z9LS7QD6a0NOMHG-7" value="模型训练" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="543" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g13x6z9LS7QD6a0NOMHG-8" value="数据分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="522" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="865" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g13x6z9LS7QD6a0NOMHG-10" value="&lt;h1&gt;模型训练&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="410" width="340" height="190" as="geometry" />
+          <mxGeometry x="363" y="420" width="340" height="190" as="geometry" />
         </mxCell>
         <mxCell id="g13x6z9LS7QD6a0NOMHG-11" value="&lt;h1&gt;数据收集&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="414" y="410" width="346" height="190" as="geometry" />
+          <mxGeometry x="757" y="420" width="346" height="190" as="geometry" />
         </mxCell>
         <mxCell id="g13x6z9LS7QD6a0NOMHG-13" value="&lt;h1&gt;域名检测&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="120" width="200" height="250" as="geometry" />
+          <mxGeometry x="833" y="130" width="200" height="250" as="geometry" />
         </mxCell>
         <mxCell id="g13x6z9LS7QD6a0NOMHG-14" value="&lt;h1&gt;数据展示&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="120" width="190" height="120" as="geometry" />
+          <mxGeometry x="383" y="130" width="327" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="g13x6z9LS7QD6a0NOMHG-16" value="控制台展示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
