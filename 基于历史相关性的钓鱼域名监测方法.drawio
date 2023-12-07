@@ -1,9 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T08:57:27.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" version="22.1.7" etag="hJ6F_LpJqdY_mPCZ57RT" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T09:17:49.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="pBiFVBbwJoqV3wtXACMr" version="22.1.7" type="github">
   <diagram name="第 1 页" id="YVLRSh_FjSjklUx-pojH">
-    <mxGraphModel>
+    <mxGraphModel dx="2019" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ztU3-VAaLSvN-aiQ41au-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztU3-VAaLSvN-aiQ41au-1" target="ztU3-VAaLSvN-aiQ41au-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ztU3-VAaLSvN-aiQ41au-1" value="域名正常行为模型" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="680" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ztU3-VAaLSvN-aiQ41au-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztU3-VAaLSvN-aiQ41au-2" target="ztU3-VAaLSvN-aiQ41au-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ztU3-VAaLSvN-aiQ41au-2" value="可疑域名节点" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="690" y="230" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ztU3-VAaLSvN-aiQ41au-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztU3-VAaLSvN-aiQ41au-3" target="ztU3-VAaLSvN-aiQ41au-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ztU3-VAaLSvN-aiQ41au-14" value="注意力机制训练" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ztU3-VAaLSvN-aiQ41au-9">
+          <mxGeometry x="-0.2444" y="4" relative="1" as="geometry">
+            <mxPoint x="36" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ztU3-VAaLSvN-aiQ41au-3" value="正常域名行为模式数据集" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ztU3-VAaLSvN-aiQ41au-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ztU3-VAaLSvN-aiQ41au-3" target="ztU3-VAaLSvN-aiQ41au-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ztU3-VAaLSvN-aiQ41au-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ztU3-VAaLSvN-aiQ41au-6" target="ztU3-VAaLSvN-aiQ41au-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ztU3-VAaLSvN-aiQ41au-6" value="域名节点异常评分" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="685" y="620" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ztU3-VAaLSvN-aiQ41au-8" value="异常子特征集合" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="410" y="490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ztU3-VAaLSvN-aiQ41au-10" value="异常子特征关联图" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="410" y="620" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ztU3-VAaLSvN-aiQ41au-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ztU3-VAaLSvN-aiQ41au-10" target="ztU3-VAaLSvN-aiQ41au-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ztU3-VAaLSvN-aiQ41au-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ztU3-VAaLSvN-aiQ41au-8" target="ztU3-VAaLSvN-aiQ41au-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ztU3-VAaLSvN-aiQ41au-15" value="随机游走算法计算时间相关性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ztU3-VAaLSvN-aiQ41au-12">
+          <mxGeometry y="5" relative="1" as="geometry">
+            <mxPoint x="75" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ztU3-VAaLSvN-aiQ41au-13" value="训练" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="340" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ztU3-VAaLSvN-aiQ41au-16" value="跟新计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="620" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ztU3-VAaLSvN-aiQ41au-20" value="输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="298" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ztU3-VAaLSvN-aiQ41au-21" value="推理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="490" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ztU3-VAaLSvN-aiQ41au-22" value="结果" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="690" y="720" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ztU3-VAaLSvN-aiQ41au-27" value="设定阈值比较" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="680" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
