@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T06:38:53.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="k1rTjt7o1W1IMc6Zhh58" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T06:40:56.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="bFXKB6Vyl6qPgwOTJUeP" version="24.0.7" type="github">
   <diagram name="第 1 页" id="YEEgdBdjTHfk4xbtySac">
     <mxGraphModel dx="2019" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,10 +7,16 @@
         <mxCell id="iFdfn92j2Xhedcux-4cT-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iFdfn92j2Xhedcux-4cT-1" target="iFdfn92j2Xhedcux-4cT-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iFdfn92j2Xhedcux-4cT-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iFdfn92j2Xhedcux-4cT-1" target="iFdfn92j2Xhedcux-4cT-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iFdfn92j2Xhedcux-4cT-1" value="收花" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iFdfn92j2Xhedcux-4cT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iFdfn92j2Xhedcux-4cT-2" target="iFdfn92j2Xhedcux-4cT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iFdfn92j2Xhedcux-4cT-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iFdfn92j2Xhedcux-4cT-2" target="iFdfn92j2Xhedcux-4cT-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iFdfn92j2Xhedcux-4cT-2" value="鲜花装桶" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -19,10 +25,16 @@
         <mxCell id="iFdfn92j2Xhedcux-4cT-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iFdfn92j2Xhedcux-4cT-3" target="iFdfn92j2Xhedcux-4cT-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iFdfn92j2Xhedcux-4cT-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iFdfn92j2Xhedcux-4cT-3" target="iFdfn92j2Xhedcux-4cT-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iFdfn92j2Xhedcux-4cT-3" value="鲜花定级" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iFdfn92j2Xhedcux-4cT-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iFdfn92j2Xhedcux-4cT-4" target="iFdfn92j2Xhedcux-4cT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iFdfn92j2Xhedcux-4cT-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iFdfn92j2Xhedcux-4cT-4" target="iFdfn92j2Xhedcux-4cT-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iFdfn92j2Xhedcux-4cT-4" value="生成虚拟拍卖列牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -31,10 +43,16 @@
         <mxCell id="iFdfn92j2Xhedcux-4cT-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iFdfn92j2Xhedcux-4cT-5" target="iFdfn92j2Xhedcux-4cT-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iFdfn92j2Xhedcux-4cT-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iFdfn92j2Xhedcux-4cT-5" target="iFdfn92j2Xhedcux-4cT-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iFdfn92j2Xhedcux-4cT-5" value="桶入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iFdfn92j2Xhedcux-4cT-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iFdfn92j2Xhedcux-4cT-6" target="iFdfn92j2Xhedcux-4cT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iFdfn92j2Xhedcux-4cT-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iFdfn92j2Xhedcux-4cT-6" target="iFdfn92j2Xhedcux-4cT-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iFdfn92j2Xhedcux-4cT-6" value="鲜花拍卖" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -43,19 +61,28 @@
         <mxCell id="iFdfn92j2Xhedcux-4cT-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iFdfn92j2Xhedcux-4cT-7" target="iFdfn92j2Xhedcux-4cT-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iFdfn92j2Xhedcux-4cT-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iFdfn92j2Xhedcux-4cT-7" target="iFdfn92j2Xhedcux-4cT-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iFdfn92j2Xhedcux-4cT-7" value="预约提货" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iFdfn92j2Xhedcux-4cT-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iFdfn92j2Xhedcux-4cT-8" target="iFdfn92j2Xhedcux-4cT-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iFdfn92j2Xhedcux-4cT-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iFdfn92j2Xhedcux-4cT-8" target="iFdfn92j2Xhedcux-4cT-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iFdfn92j2Xhedcux-4cT-8" value="现场提货" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iFdfn92j2Xhedcux-4cT-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iFdfn92j2Xhedcux-4cT-9" target="iFdfn92j2Xhedcux-4cT-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iFdfn92j2Xhedcux-4cT-9" value="客户/集散中心签收" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iFdfn92j2Xhedcux-4cT-18" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iFdfn92j2Xhedcux-4cT-18" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="480" y="80" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iFdfn92j2Xhedcux-4cT-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
