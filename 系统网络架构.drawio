@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T08:23:20.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="RklWHCbNvzn1g4F1FQRG" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-01T08:28:16.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="fsAmBe2Z5dprf-q6iHq-" version="24.1.0" type="github">
   <diagram name="第 1 页" id="3fT4_iJ_3DGOH1JY3sx4">
     <mxGraphModel dx="1744" dy="2293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,13 +8,13 @@
           <mxGeometry x="30" y="300" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7UU17NBFL_HB_oGkzHo4-2" value="MES系统数据服务器" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server_storage;" vertex="1" parent="1">
-          <mxGeometry x="30" y="480" width="105" height="105" as="geometry" />
+          <mxGeometry x="30" y="435" width="105" height="105" as="geometry" />
         </mxCell>
         <mxCell id="7UU17NBFL_HB_oGkzHo4-3" value="无线AP" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" vertex="1" parent="1">
           <mxGeometry x="780" y="380" width="100" height="85" as="geometry" />
         </mxCell>
         <mxCell id="7UU17NBFL_HB_oGkzHo4-4" value="MES系统PC管理端" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
-          <mxGeometry x="280" y="182.5" width="100" height="70" as="geometry" />
+          <mxGeometry x="280" y="685" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7UU17NBFL_HB_oGkzHo4-8" value="客户手机终端" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;" vertex="1" parent="1">
           <mxGeometry x="52.5" y="-290" width="50" height="100" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="199.75" y="-40" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7UU17NBFL_HB_oGkzHo4-16" value="&lt;font color=&quot;#0000ff&quot;&gt;工业以太网&lt;/font&gt;" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.bus;gradientColor=none;gradientDirection=north;fontColor=#ffffff;perimeter=backbonePerimeter;backboneSize=20;direction=south;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="310" width="10" height="280" as="geometry" />
+          <mxGeometry x="210" y="310" width="10" height="660" as="geometry" />
         </mxCell>
         <mxCell id="7UU17NBFL_HB_oGkzHo4-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7UU17NBFL_HB_oGkzHo4-16" target="7UU17NBFL_HB_oGkzHo4-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -123,38 +123,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7UU17NBFL_HB_oGkzHo4-55" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="7UU17NBFL_HB_oGkzHo4-4">
+        <mxCell id="7UU17NBFL_HB_oGkzHo4-55" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0.833;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7UU17NBFL_HB_oGkzHo4-10" target="7UU17NBFL_HB_oGkzHo4-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="435" as="sourcePoint" />
+            <mxPoint x="330" y="470" as="sourcePoint" />
             <mxPoint x="330" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7UU17NBFL_HB_oGkzHo4-56" value="鲜花定级设备服务器" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
-          <mxGeometry x="120" y="740" width="90" height="100" as="geometry" />
+          <mxGeometry x="32.5" y="585" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7UU17NBFL_HB_oGkzHo4-57" value="WMS/WCS系统服务器" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
-          <mxGeometry x="285" y="740" width="90" height="100" as="geometry" />
+          <mxGeometry x="30" y="730" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7UU17NBFL_HB_oGkzHo4-58" value="拍卖系统服务器" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
-          <mxGeometry x="440" y="740" width="90" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="7UU17NBFL_HB_oGkzHo4-59" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="7UU17NBFL_HB_oGkzHo4-56">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="254" y="515" as="sourcePoint" />
-            <mxPoint x="304" y="465" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7UU17NBFL_HB_oGkzHo4-60" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7UU17NBFL_HB_oGkzHo4-57">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="730" as="sourcePoint" />
-            <mxPoint x="330" y="465" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7UU17NBFL_HB_oGkzHo4-61" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7UU17NBFL_HB_oGkzHo4-58">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="315.25" y="515" as="sourcePoint" />
-            <mxPoint x="365.25" y="465" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="30" y="870" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7UU17NBFL_HB_oGkzHo4-62" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -200,6 +182,24 @@
         </mxCell>
         <mxCell id="7UU17NBFL_HB_oGkzHo4-71" value="防火墙" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" vertex="1" parent="1">
           <mxGeometry x="164" y="150" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7UU17NBFL_HB_oGkzHo4-73" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="7UU17NBFL_HB_oGkzHo4-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="122.5" y="640" as="sourcePoint" />
+            <mxPoint x="172.5" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7UU17NBFL_HB_oGkzHo4-74" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="7UU17NBFL_HB_oGkzHo4-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="790" as="sourcePoint" />
+            <mxPoint x="170" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7UU17NBFL_HB_oGkzHo4-75" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="930" as="sourcePoint" />
+            <mxPoint x="200" y="930" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
