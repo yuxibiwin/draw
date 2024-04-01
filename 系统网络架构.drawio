@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T08:22:01.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="2KIvhvh-UKz4nA3sBdkn" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-01T08:23:20.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="RklWHCbNvzn1g4F1FQRG" version="24.1.0" type="github">
   <diagram name="第 1 页" id="3fT4_iJ_3DGOH1JY3sx4">
     <mxGraphModel dx="1744" dy="2293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="7UU17NBFL_HB_oGkzHo4-12" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link;" vertex="1" parent="1">
           <mxGeometry x="199.75" y="-40" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7UU17NBFL_HB_oGkzHo4-16" value="工业以太网" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.bus;gradientColor=none;gradientDirection=north;fontColor=#ffffff;perimeter=backbonePerimeter;backboneSize=20;direction=south;flipV=1;" vertex="1" parent="1">
+        <mxCell id="7UU17NBFL_HB_oGkzHo4-16" value="&lt;font color=&quot;#0000ff&quot;&gt;工业以太网&lt;/font&gt;" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.bus;gradientColor=none;gradientDirection=north;fontColor=#ffffff;perimeter=backbonePerimeter;backboneSize=20;direction=south;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="310" width="10" height="280" as="geometry" />
         </mxCell>
         <mxCell id="7UU17NBFL_HB_oGkzHo4-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7UU17NBFL_HB_oGkzHo4-16" target="7UU17NBFL_HB_oGkzHo4-10">
