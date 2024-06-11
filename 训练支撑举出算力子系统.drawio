@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T14:15:02.152Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" version="24.5.2" etag="Tj6UrmBzezmGSURXPjve" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T14:16:43.771Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="_g8fe6WppurPnSev7p9P" version="24.5.2" type="github">
   <diagram name="第 1 页" id="PtkZFWCqN2UXBrDpLfKn">
-    <mxGraphModel>
+    <mxGraphModel dx="2019" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5mnBoArpZEisCa4G6p56-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5mnBoArpZEisCa4G6p56-1" target="5mnBoArpZEisCa4G6p56-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5mnBoArpZEisCa4G6p56-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5mnBoArpZEisCa4G6p56-1" target="5mnBoArpZEisCa4G6p56-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5mnBoArpZEisCa4G6p56-1" value="训练支撑基础算力子系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5mnBoArpZEisCa4G6p56-2" value="算力微服务子能力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5mnBoArpZEisCa4G6p56-3" value="基础设施" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
